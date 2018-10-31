@@ -22,8 +22,8 @@ import EventTest from './components/Event.vue'
 export default {
   name: 'app',
   data: () => ({
-    title: "谢尔婷",
-    description: "郭依珣",
+    title: "你是谁",
+    description: "我是你",
     value: "",
     options: [1,2,3],
     selectValue: [],
